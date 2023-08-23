@@ -1,6 +1,6 @@
 # Wykaz imion używanych w Polskiej Rzeczypospolitej Ludowej
 
-(i.e., list of names used in the Polish People\'s Republic)
+(i.e., list of names used in the Polish People's Republic)
 
 ## About
 
@@ -16,7 +16,7 @@ For more, see:
 
 ## Data
 
-The file you\'ll be interested in is `given_names.csv`. Here\'s an example of the first three rows:
+The file you'll be interested in is `given_names.csv`. Here's an example of the first three rows:
 
 | Name    | Form | Popular |
 |---------|------|---------|
@@ -26,8 +26,16 @@ The file you\'ll be interested in is `given_names.csv`. Here\'s an example of th
 
 : head of `given_names.csv`
 
--   `Name`---the given name (character strings with Polish diacritics)
+-   `Name` - the given name (character strings with Polish diacritics)
 
--   `Form`---feminine or masculine, as indicated in the original list (`f` or `m`)
+-   `Form` - feminine or masculine, as indicated in the original list (`f` or `m`)
 
--   `Popular`---names deemed popular in the original list (`TRUE` or `FALSE`)
+-   `Popular` - names deemed popular in the original list (`TRUE` or `FALSE`)
+
+### Meta
+
+-   Rows: 1,176
+
+-   Columns: 3
+
+-   Checked for typos multiple times, but might have missed a few spots
