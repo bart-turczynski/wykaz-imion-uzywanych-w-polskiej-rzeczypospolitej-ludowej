@@ -1,3 +1,9 @@
+# Wykaz imion używanych w Polskiej Rzeczypospolitej Ludowej
+
+(i.e., list of names used in the Polish People\'s Republic)
+
+## About
+
 This repository stores data on names present in *Wykaz imion używanych w Polskiej Rzeczypospolitej Ludowej*, an article published in *Język Polski. 1983, nr 1/2 (styczeń/kwiecień)*.
 
 The article presents a list of names that is still used by the Council for the Polish Language when opining on appropriate and inappropriate baby names.
@@ -7,3 +13,21 @@ From a native speaker's perspective, these names feel dated; many of them aren't
 For more, see:
 
 -   <http://mbc.malopolska.pl/dlibra/docmetadata?id=24254>
+
+## Data
+
+The file you\'ll be interested in is `given_names.csv`. Here\'s an example of the first three rows:
+
+| Name    | Form | Popular |
+|---------|------|---------|
+| Abdon   | m    | FALSE   |
+| Abel    | m    | FALSE   |
+| Abelard | m    | FALSE   |
+
+: head of `given_names.csv`
+
+-   `Name`---the given name (character strings with Polish diacritics)
+
+-   `Form`---feminine or masculine, as indicated in the original list (`f` or `m`)
+
+-   `Popular`---names deemed popular in the original list (`TRUE` or `FALSE`)
