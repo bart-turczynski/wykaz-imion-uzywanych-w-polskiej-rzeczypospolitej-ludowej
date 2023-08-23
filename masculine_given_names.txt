@@ -37,7 +37,7 @@ Arkady, -ego
 Armin
 Arnold
 Aron
-temiusz
+ temiusz
 ARTUR
 Aspazjusz
 Atanazy, -ego
@@ -144,7 +144,7 @@ Donald
 Donat
 Dorian
 Doroteusz
-Drogomił
+ Drogomił
 Drogomir
 Drogomysł
 Drogosław
@@ -272,7 +272,7 @@ Izajasz
 Izasław
 Izydor
 JACEK
-Jaenty, -ego
+Ja enty, -ego
 JAKUB
 JAN
 January, -ego
@@ -581,15 +581,15 @@ Szczęsny, -ego
 '.
 Szymon
 Świerad
-więtomir
-, więtopełek
-Świętosaw
+ więtomir
+,  więtopełek
+Świętos aw
 TADEUSZ
 Telesfor
 Teo bald
 Teodor
 Teodozjusz
-TQfil
+T Qfil
 Terencjusz
 Tobiasz
 Tolisław

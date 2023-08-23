@@ -48,6 +48,7 @@ Alodia,f,FALSE
 Alojza,f,FALSE
 Alojzy,m,TRUE
 Amadeusz,m,FALSE
+Amalia,f,FALSE
 Amanda,f,FALSE
 Ambroży,m,FALSE
 Amelia,f,FALSE
@@ -61,7 +62,6 @@ Andrzej,m,TRUE
 Aneta,f,FALSE
 Angelika,f,FALSE
 Angelina,f,FALSE
-Anialia,f,FALSE
 Aniana,f,FALSE
 Anicet,m,FALSE
 Aniceta,f,FALSE
@@ -219,11 +219,11 @@ Czesław,m,TRUE
 Czesława,f,TRUE
 Częstowoj,m,FALSE
 Dacjusz,m,FALSE
+Dagmara,f,FALSE
 Dagna,f,FALSE
 Dalemir,m,FALSE
 Dalia,f,FALSE
 Dalisława,f,FALSE
-Damara,f,FALSE
 Damazy,m,FALSE
 Damian,m,FALSE
 Dana,f,FALSE
@@ -263,9 +263,9 @@ Dobrosław,m,TRUE
 Dobrosława,f,FALSE
 Doman,m,FALSE
 Domarad,m,FALSE
+Domasław,m,FALSE
 Domasława,f,FALSE
 Domicela,f,FALSE
-Domilosław,m,FALSE
 Dominik,m,TRUE
 Dominika,f,FALSE
 Donald,m,FALSE
@@ -819,7 +819,7 @@ Mścisława,f,FALSE
 Mściwoj,m,FALSE
 Nadzieja,f,FALSE
 Napoleon,m,FALSE
-Narcyz-,m,FALSE
+Narcyz,m,FALSE
 Narcyza,f,FALSE
 Nasław,m,FALSE
 Natalia,f,TRUE
@@ -943,7 +943,7 @@ Remisław,m,FALSE
 Renata,f,FALSE
 Robert,m,FALSE
 Roberta,f,FALSE
-Roch-,m,FALSE
+Roch,m,FALSE
 Rocław,m,FALSE
 Roderyk,m,FALSE
 Roger,m,FALSE
@@ -1023,8 +1023,6 @@ Sulimir,m,FALSE
 Sulirad,m,FALSE
 Sulisław,m,FALSE
 Sulisława,f,FALSE
-Swiętochna,f,FALSE
-Swiętosława,f,FALSE
 Sydoniusz,m,FALSE
 Sykstus,m,FALSE
 Sylweriusz,m,FALSE
@@ -1126,8 +1124,6 @@ Witosława,f,FALSE
 Witołd,m,FALSE
 Więcław,m,FALSE
 Więcława,f,FALSE
-Więtomir,m,FALSE
-Więtopełek,m,FALSE
 Wodzisław,m,FALSE
 Wodzisława,f,FALSE
 Wojciech,m,TRUE
@@ -1169,7 +1165,11 @@ Zyta,f,FALSE
 Łucjan,m,FALSE
 Łukasz,m,TRUE
 Świerad,m,FALSE
+Świętochna,f,FALSE
+Świętomir,m,FALSE
+Świętopełek,m,FALSE
 Świętosław,m,FALSE
+Świętosława,f,FALSE
 Żaklina,f,FALSE
 Żaneta,f,FALSE
 Żegota,m,FALSE
