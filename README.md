@@ -39,3 +39,23 @@ The file you'll be interested in is `given_names.csv`. Here's an example of the 
 -   Columns: 3
 
 -   Checked for typos multiple times, but might have missed a few spots
+
+# Aneks do obowiązującego wykazu imion
+
+(i.e., Annex to the current list of names)
+
+In 2006/2007 a list of accepted and not recommended names was published.
+
+You'll find those names in:
+
+-   `annex_given_names_positive.csv`
+
+-   `annex_given_names_negative.csv`
+
+Both files contain `Name` and `Form` columns:
+
+-   `Name` stores the name listed
+
+-   `Form` holds information on what form (feminine or masculine) the opinion applies to.
+
+Note that - unless explicitly mentioned by the Council - the form is listed as `NA`. You can assume the form by judging the suffix (i.e., `-a` likely is a feminine given name, etc.); note that the Council doesn't recommend giving males typically feminine names and vice versa. Hence, the recommendations implicitly apply to both forms unless stated otherwise (e.g., `Kuba` is an allowed masculine given name, but is considered inappropriate as a feminine given name).
