@@ -59,3 +59,7 @@ Both files contain `Name` and `Form` columns:
 -   `Form` holds information on what form (feminine or masculine) the opinion applies to.
 
 Note that - unless explicitly mentioned by the Council - the form is listed as `NA`. You can assume the form by judging the suffix (i.e., `-a` likely is a feminine given name, etc.); note that the Council doesn't recommend giving males typically feminine names and vice versa. Hence, the recommendations implicitly apply to both forms unless stated otherwise (e.g., `Kuba` is an allowed masculine given name, but is considered inappropriate as a feminine given name).
+
+For more, see:
+
+-   <https://rjp.pan.pl/aneks-do-obowiazujacego-wykazu-imion>
